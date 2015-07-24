@@ -2,6 +2,8 @@
 
 #### How to configure project to use RESTeasy
 
+- This project uses WildFly as AS
+- WildFly uses RESTeasy as RI of JAX-RS
 - Open web.xml and write the code below
 
 ```xml
